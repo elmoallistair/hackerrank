@@ -27,8 +27,8 @@
 # ===============================================
 
 if __name__ == '__main__':
-    a = int(input())    # integer division
-    b = int(input())    # float division
+    a = int(input())    
+    b = int(input())    
 
-    print(a//b)
-    print(a/b)
+    print(a//b)     # integer division
+    print(a/b)      # float division
