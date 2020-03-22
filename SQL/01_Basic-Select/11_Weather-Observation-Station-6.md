@@ -14,4 +14,4 @@
 
 <b>SOLUTION (MySQL)</b>
 > SELECT DISTINCT(city) FROM station WHERE city REGEXP '^[aeiou]';<br><br>
-> [Reference](https://www.tutorialspoint.com/mysql/mysql-regexps.html)
+> [Reference](https://www.tutorialspoint.com/mysql/mysql-regexps.htm)
