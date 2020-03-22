@@ -1,4 +1,4 @@
-[comment]: <> (Written: 20-Mar-2020
+[comment]: <> (Written: 20-Mar-2020)
 
 <b> PROBLEM </b>
 > You are given two sets.<br>
