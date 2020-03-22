@@ -1,4 +1,6 @@
-<b>PROBLEM</b>
+[comment]: <> (Written: 20-Mar-2020)
+
+<b> QUESTION </b>
 > Consider the following data table named Student.
 >
 > | Student Name | Number | Sex |
@@ -11,4 +13,4 @@
 &#960;(Name, Number)(Student)
 
 <b>ANSWER</b>
-> 2
+> _2_
