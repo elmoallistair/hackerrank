@@ -1,3 +1,5 @@
+[comment] <> (Written: 19-Mar-2020)
+
 <b> QUESTION </b>
 > You are given two sets. <br>
 > Set A = {1,2,3,4,5,6} <br>
