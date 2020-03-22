@@ -1,7 +1,7 @@
 [comment]: <> (Written: 23-Mar-2020)
 
 <b>TASK<b>
-> Query all columns for all American cities in CITY with populations larger than 120000. The CountryCode for America is USA. 
+> Query all names of all American cities in CITY with populations larger than 120000. The CountryCode for America is USA. 
 >
 > City Table: 
 > | Field       | Type         |
