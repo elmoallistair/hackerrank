@@ -1,7 +1,7 @@
 [comment]: <> (Written: 23-Mar-2020)
 
 <b>TASK<b>
-> Query the list of CITY names starting with vowels (i.e., a, e, i, o, or u) from STATION. Your result cannot contain duplicates.
+> Query the list of CITY names from STATION which have vowels (i.e., a, e, i, o, and u) as both their first and last characters. Your result cannot contain duplicates.
 >
 > Station's Table: 
 > | Field  | Type         |
