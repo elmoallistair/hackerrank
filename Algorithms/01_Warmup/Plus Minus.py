@@ -1,5 +1,5 @@
-# Link: https://www.hackerrank.com/challenges/plus-minus/problem
 # Written: 15-Dec-2019
+# https://www.hackerrank.com/challenges/plus-minus/problem
 
 #!/bin/python3
 
