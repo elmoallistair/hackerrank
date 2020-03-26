@@ -1,5 +1,5 @@
 # Written: 31-Dec-2019
-# Link: https://www.hackerrank.com/challenges/mini-max-sum/problem
+# https://www.hackerrank.com/challenges/mini-max-sum/problem
 
 #!/bin/python3
 
