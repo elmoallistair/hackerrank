@@ -1,3 +1,5 @@
+-- Written: 25-Mar-2002
+
 SELECT
   CASE
     WHEN (A + B <= C) OR (B + C <= A) OR (C + A <= B) THEN "Not A Triangle"

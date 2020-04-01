@@ -1,4 +1,4 @@
-[comment]: <> (Written: 01-Mar-2020)
+[comment]: <> (Written: 01-Apr-2020)
 
 ## Japan Population
 Query the sum of the populations for all Japanese cities in **CITY**. The COUNTRYCODE for Japan is **JPN**.

@@ -1,3 +1,5 @@
+[comment]: <> (Written: 25-Mar-2002)
+
 ## The PADS
 Generate the following two result sets:
 1. Query an alphabetically ordered list of all names in **OCCUPATIONS**, immediately followed by the first letter of each profession as a parenthetical (i.e.: enclosed in parentheses). 

@@ -1,3 +1,5 @@
+-- Written: 01-Apr-2020
+
 SELECT 
     (salary*months) AS earnings, 
     COUNT(*)
