@@ -5,7 +5,6 @@ import textwrap as tw
 
 def wrap(string, max_width):
     return "\n".join(textwrap.TextWrapper(width=max_width).wrap(text=string))
-    # https://www.tutorialspoint.com/python-text-wrapping-and-filling
 
 if __name__ == '__main__':
     string, max_width = input(), int(input())

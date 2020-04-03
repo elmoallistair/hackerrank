@@ -2,7 +2,8 @@
 # https://www.hackerrank.com/challenges/designer-door-mat/problem
 
 # Enter your code here. Read input from STDIN. Print output to STDOUT
-N, M = map(int, input().split())    # 5 < N < 101, 15 < M < 303
+
+N, M = map(int, input().split())
 
 for i in range(1, N, 2):
     print (('.|.' * i).center(M, '-'))  # Top side
