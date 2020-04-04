@@ -9,12 +9,14 @@ The values returned by these functions are printed to stdout by locked stub code
 
 ## Input Format
 `getArea`
+
 | Data Type | Parameter | Description                                  |
 |-----------|-----------|----------------------------------------------|
 | `Number`  | `length`  | A number denoting the length of a rectangle. |
 | `Number`  | `height`  | A number denoting the height of a rectangle. |
 
 `getPerimeter(length, height)`
+
 | Data Type | Parameter | Description                                  |
 |-----------|-----------|----------------------------------------------|
 | `Number`  | `length`  | A number denoting the length of a rectangle. |

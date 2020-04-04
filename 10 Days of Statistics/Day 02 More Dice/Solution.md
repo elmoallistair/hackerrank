@@ -12,6 +12,7 @@ In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probabilit
 > 1 / 9
 
 There are 4 from 36 posibilities of 2 dice with sum = 6 and each dice has different value.
+
 |       | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------|-------|-------|-------|-------|-------|-------|
 | **1** | 2     | 3     | 4     | 5     | 6     | 7     |

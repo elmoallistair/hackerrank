@@ -12,6 +12,7 @@ In a single toss of 2 fair (evenly-weighted) six-sided dice, find the probabilit
 > <p>5 / 6</p> 
 
 There are 30 from 36 posibilities of 2 dice with sum <= 9
+
 |       | **1** | **2** | **3** | **4** | **5** | **6** |
 |-------|-------|-------|-------|-------|-------|-------|
 | **1** | 2     | 3     | 4     | 5     | 6     | 7     |
