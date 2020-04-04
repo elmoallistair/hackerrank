@@ -1,3 +1,5 @@
+# Day 0: Data Types
+
 ## Objective
 Today, we're discussing data types. Check out the attached tutorial for more details.
 
@@ -7,16 +9,17 @@ You must use the operator &#43; to perform the following sequence of operations:
 
 1. Convert `secondInteger` to an integer (Number type), then sum it with `firstInteger` and print the result on a new line using console.log.
 2. Convert `secondDecimal` to a floating-point number (Number type), then sum it with `furstDecimal` and print the result on a new line using console.log.
-3. Print the concatenation of `firstString` and `secondString` on a new line using console.log. Note that `firstString must be printed first.
+3. Print the concatenation of `firstString` and `secondString` on a new line using console.log. Note that `firstString` must be printed first.
 
 ## Input Format
+
 | Data Type | Parameter       | Description                                                                            |
 |-----------|-----------------|----------------------------------------------------------------------------------------|
 | string    | `secondInteger` | The string representation of an integer you must sum with `firstInteger`.              |
 | string    | `secondDecimal` | The string representation of a floating-point number you must sum with `firstDecimal`. |
 | string    | `secondString`  | A string of one or more space-separated words you must append to `secondString`.       |
 
-## Output Format
+### Output Format
 Print the following three lines of output:
 1. On the first line, print the sum of `firstInteger` and the integer representation of `secondInteger`.
 2. On the second line, print the sum of `firstDecimal` and the floating-point representation of `secondDecimal`.

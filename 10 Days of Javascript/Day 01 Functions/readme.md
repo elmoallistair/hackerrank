@@ -1,3 +1,5 @@
+# Day 1: Functions
+
 ## Objective
 Today, we're discussing JavaScript functions. Check out the attached tutorial for more details.
 
