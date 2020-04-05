@@ -17,5 +17,7 @@ The **CITY** table is described as follows:
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT * FROM City WHERE countrycode='JPN';
+SELECT * 
+FROM City 
+WHERE countrycode='JPN';
 ```

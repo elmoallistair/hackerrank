@@ -1,4 +1,4 @@
-[comment]: <> (Written: 25-Mar-2002)
+[comment]: <> (Written: 25-Mar-2020)
 
 ## Type of Triangle
 Write a query identifying the type of each record in the **TRIANGLES** table using its three side lengths. 
@@ -53,5 +53,3 @@ SELECT
 END
 FROM triangles;
 ```
-    
-

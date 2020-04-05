@@ -48,5 +48,8 @@ We order our output by ascending employee_id.
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT name FROM employee WHERE months<10 AND salary>2000 ORDER BY employee_id;
+SELECT name 
+FROM employee 
+WHERE months<10 AND salary>2000 
+ORDER BY employee_id;
 ```

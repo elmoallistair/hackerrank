@@ -17,5 +17,7 @@ The **CITY** table is described as follows:
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT name FROM city WHERE countrycode = 'USA' AND population > 120000;
+SELECT name 
+FROM city 
+WHERE countrycode = 'USA' AND population > 120000;
 ```

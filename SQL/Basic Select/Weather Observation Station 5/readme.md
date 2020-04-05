@@ -22,7 +22,7 @@ Let's say that CITY only has four entries: DEF, ABC, PQRS and WXY
 
 ### Sample Output
 ```
-ABC 3<br>
+ABC 3
 PQRS 4
 ```
 
@@ -36,6 +36,17 @@ You can write two separate queries to get the desired output. It need not be a s
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT city, LENGTH(city) FROM station ORDER BY LENGTH(city), city LIMIT 1;
-SELECT city, LENGTH(city) FROM station ORDER BY LENGTH(ciry) DESC, city LIMIT 1;
+SELECT 
+	city, 
+	LENGTH(city) 
+FROM station 
+ORDER BY LENGTH(city), city 
+LIMIT 1;
+
+SELECT 
+	city, 
+	LENGTH(city) 
+FROM station 
+ORDER BY LENGTH(city) DESC, city 
+LIMIT 1;
 ```

@@ -1,4 +1,4 @@
--- Written: 25-Mar-2002
+-- Written: 25-Mar-2020
 
 SELECT
   CASE

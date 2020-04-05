@@ -19,5 +19,7 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT DISTINCT(city) FROM station WHERE MOD(ID, 2)=0;
+SELECT DISTINCT(city)
+FROM station 
+WHERE MOD(ID, 2)=0;
 ```

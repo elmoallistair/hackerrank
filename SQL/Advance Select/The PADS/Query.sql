@@ -1,3 +1,5 @@
+-- Written: 25-Mar-2020
+
 SELECT CONCAT(name, '(', LEFT(occupation, 1), ')')
 FROM occupations
 ORDER BY name;

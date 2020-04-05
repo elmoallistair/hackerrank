@@ -20,5 +20,6 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT (COUNT(city)-COUNT(DISTINCT(city))) FROM station;
+SELECT (COUNT(city)-COUNT(DISTINCT(city))) 
+FROM station;
 ```

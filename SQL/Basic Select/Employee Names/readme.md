@@ -1,6 +1,6 @@
 [comment]: <> (Written: 24-Mar-2020)
 
-### Employee Names
+## Employee Names
 Write a query that prints a list of employee names (i.e.: the name attribute) from the **Employee** table in alphabetical order.
 
 ### Input Format</b>
@@ -43,5 +43,7 @@ Michael
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT name FROM employee ORDER BY name;
+SELECT name 
+FROM employee 
+ORDER BY name;
 ```

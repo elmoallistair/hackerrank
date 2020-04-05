@@ -36,5 +36,8 @@ If you look at the last three characters of each of their names, there are no du
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT Name FROM Students WHERE Marks>75 ORDER BY RIGHT(Name, 3), ID;
+SELECT Name 
+FROM Students 
+WHERE Marks>75 
+ORDER BY RIGHT(Name, 3), ID;
 ```

@@ -19,5 +19,6 @@ where LAT_N is the northern latitude and LONG_W is the western longitude.
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT city, state FROM station;
+SELECT city, state 
+FROM station;
 ```

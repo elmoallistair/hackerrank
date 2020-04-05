@@ -17,5 +17,6 @@ The **CITY** table is described as follows:
 &nbsp;
 ## Solution (MySQL)
 ```
-SELECT * FROM City;
+SELECT * 
+FROM City;
 ```
