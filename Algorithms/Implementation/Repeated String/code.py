@@ -11,12 +11,11 @@ import sys
 
 # Complete the repeatedString function below.
 def repeatedString(s, n):
-    a = s.count('a')
-    temp = int(a * n / len(s))
-    remainder = s[:n % len(s)].count('a')
+    temp = s.count('a') * (n//len(s))
+    remainder = s[:n%len(s)].count('a')
 
     return temp+remainder
-
+        
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
     s = input()
