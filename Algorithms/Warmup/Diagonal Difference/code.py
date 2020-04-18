@@ -18,8 +18,7 @@ import sys
 
 def diagonalDifference(arr):
     # Write your code here
-    first_diag = 0
-    second_diag = 0
+    first_diag = second_diag = 0
     for i in range(n):
         first_diag += int(arr[i][i])
         second_diag += int(arr[i][(n-1)-i])

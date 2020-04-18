@@ -24,12 +24,6 @@ def plusMinus(arr):
     print(count_neg/n)
     print(count_zero/n)
 
-    # Shorter Code:
-    # print(len([num for num in arr if num > 0])/n)
-    # print(len([num for num in arr if num < 0])/n)
-    # print(len([num for num in arr if num == 0])/n)
-
-
 if __name__ == '__main__':
     n = int(input())
     arr = list(map(int, input().rstrip().split()))

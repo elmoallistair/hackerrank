@@ -11,8 +11,9 @@ import sys
 
 # Complete the staircase function below.
 def staircase(n):
-    row = ''
     for i in range(1, n+1):
-        row = ' '*(n-i) + '#'*i
-        print(row)
+        print(' '*(n-i) + '#'*i)
+
+if __name__ == '__main__':
+    n = int(input())
     staircase(n)

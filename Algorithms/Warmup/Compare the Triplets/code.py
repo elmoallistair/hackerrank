@@ -11,8 +11,7 @@ import sys
 
 # Complete the compareTriplets function below.
 def compareTriplets(a, b):
-    count_a = 0
-    count_b = 0
+    count_a = count_b = 0
     for i in range(3):
         if a[i] > b[i]:
             count_a += 1

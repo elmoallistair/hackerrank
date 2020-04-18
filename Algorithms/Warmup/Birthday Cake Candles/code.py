@@ -11,12 +11,7 @@ import sys
 
 # Complete the birthdayCakeCandles function below.
 def birthdayCakeCandles(ar):
-    tallest = max(ar)
-    res = len([x for x in ar if x == tallest])
-    return res
-
-    # Shorter Code:
-    # return ar.count(max(ar))
+    return ar.count(max(ar))
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
