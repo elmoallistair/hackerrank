@@ -32,4 +32,4 @@ Print the integer sum of the elements in the array.
 ##### Note:
 The range of the 32-bit integer is<br>
 **( -2<sup>31</sup> ) _to_ ( 2<sup>31</sup> - 1 ) _or_ [-2147483648, 2147483647]**.<br>
-When we add several integer values, the resulting sum might exceed the above range. You might need to use long long int in C/C++ or long data type in Java to store such sums. 
+When we add several integer values, the resulting sum might exceed the above range. You might need to use long long int in C/C++ or long data type in Java to store such sums.
